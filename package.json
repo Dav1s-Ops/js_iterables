@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha map_practice.js filter_practice.js reduce_practice.js sort_practice.js every_practice.js find_practice.js"
+  }
+}
